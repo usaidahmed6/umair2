@@ -1,0 +1,52 @@
+/* .homeContainer {
+    background: #f0f2f5;
+    justify-content: space-between;
+    display: flex;
+    padding: 15%;
+    flex-wrap: wrap;
+}
+/* .bgcolor{
+    background-color: red;
+    border: 2px solid black;
+    height: 200px;
+    width: 400px;
+} */
+/* .facebookHeading{
+    color: #1877f2;
+    font-size: 50px;
+    display: inline;
+    font-weight: bold;
+}
+.leftDiv{
+    width: 50%;
+    border: 1px solid black;
+}
+.rightDiv{ */
+    /* display: block; */
+    /* border: 1px solid black;
+    background-color: #fff;
+     width: 50%; */
+    /* margin-top: -101px;  */
+/* }
+.facebookhelp{
+    font-size: 30px;
+    line-height: 100%;
+    font-weight: 480;
+}
+.loginForm{
+    width: 100% !important;
+    text-align: center;
+}
+ .loginInput{
+    width: 95%;
+    border-radius: 10px;
+    margin-top: 10px;
+}  */
+.container{
+    /* display: flex; */
+    /* justify-content: center; */
+    text-align: center;
+}
+.containerSignUp{
+    display: flex;
+}
